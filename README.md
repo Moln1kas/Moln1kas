@@ -5,7 +5,7 @@
     <b>Languages</b> - JavaScript/TypeScript; GDScript; Lua;<br>
     <b>Game development</b> - Godot; Solar2D;<br>
     <b>Frontend</b> - HTML/Pug; CSS/SCSS; JQuery; Vue;<br>
-    <b>Backend</b> - Express; MySQL/SQLite;<br>
+    <b>Backend</b> - Express; MongoDB;<br>
     <b>Art</b> - Photoshop; Aseprite;
   </p>
   <br><br>
