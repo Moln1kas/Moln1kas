@@ -1,13 +1,14 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&color=98971A&center=true&vCenter=true&multiline=true&repeat=false&width=512&height=80&lines=Hello%2C+world!;I'm+Moln1kas+-+a+game+and+website+developer" alt="Typing SVG" /></a>
-  <br><br>
-  <p>
-    <b>Languages</b> - JavaScript/TypeScript; GDScript; Lua;<br>
-    <b>Game development</b> - Godot; Solar2D;<br>
-    <b>Frontend</b> - HTML/Pug; CSS/SCSS; JQuery; Vue;<br>
-    <b>Backend</b> - Express; MongoDB;<br>
-    <b>Art</b> - Photoshop; Aseprite;
-  </p>
-  <br><br>
-  <b>Visit <a href="https://molnikas.su">my website</a></b>
+  <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=600&duration=1000&pause=1000&color=EBDBB2&background=005A9E&center=true&vCenter=true&repeat=false&width=435&height=40&lines=Hi+there!+I'm+Moln1kas" alt="Typing SVG" /></a></h1>
+  <h3><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=600&duration=1000&pause=1000&color=EBDBB2&center=true&vCenter=true&repeat=false&width=435&lines=a+website+and+game+developer." alt="Typing SVG" /></a></h3>
+
+  <a>
+    <img alt="Static Badge" src="https://img.shields.io/badge/telegram-%23005A9E?style=for-the-badge">
+  </a>
+  <a href="https://molnikas.su/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Website-%23005A9E?style=for-the-badge">
+  </a>
+  <a>
+    <img alt="Static Badge" src="https://img.shields.io/badge/discord-%23005A9E?style=for-the-badge">
+  </a>
 </div>
