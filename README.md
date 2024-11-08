@@ -9,5 +9,5 @@
     <b>Art</b> - Photoshop; Aseprite;
   </p>
   <br><br>
-  <b>Visit <a href="https://moln1kas.github.io">my website</a></b>
+  <b>Visit <a href="https://molnikas.su">my website</a></b>
 </div>
